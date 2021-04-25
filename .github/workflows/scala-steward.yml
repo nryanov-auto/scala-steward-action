@@ -14,4 +14,5 @@ jobs:
         with:
           github-token: ${{ secrets.REPO_GITHUB_TOKEN }}
           author-email: ${{ secrets.EMAIL }}
+          cache-ttl: 0s
           repos-file: 'repos.md'
