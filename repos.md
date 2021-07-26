@@ -2,3 +2,4 @@
 - nryanov/neo4s
 - nryanov/feature4s
 - nryanov/zio-tarantool
+- nryanov/schemakeeper
